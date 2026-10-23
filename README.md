@@ -4,6 +4,12 @@
 
 A robust Laravel-based system that processes travel insurance policy requests safely, handling duplicate submissions, provider timeouts, and idempotent callbacks.
 
+> **Assessment Submission:**
+> - **Candidate:** Ritik Kumar ([@RitikKumar1225](https://github.com/RitikKumar1225))
+> - **Submitted For Review To:** [@MasterAdmin2](https://github.com/MasterAdmin2)
+> - **Repository:** [https://github.com/RitikKumar1225/policyflow](https://github.com/RitikKumar1225/policyflow)
+> - **Status:** Complete (46 automated tests passing, all 4 reliability scenarios implemented)
+
 ---
 
 ## Table of Contents
